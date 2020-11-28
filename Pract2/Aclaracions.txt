@@ -1,0 +1,15 @@
+Client-servidor utilitzant sockets
+Socket permet implementar la connexió des de la part del client
+ServerSocket permetra manipular la conexio des de la part del servidor
+Tant client com servidor hauran de coneixer les seves direccions IP
+  i també el port per el cual es comunicaran
+
+
+
+
+
+
+
+Bibliografia:
+https://www.infor.uva.es/~fdiaz/sd/doc/java.net.pdf
+https://docs.oracle.com/javase/7/docs/api/java/io/PrintWriter.html
