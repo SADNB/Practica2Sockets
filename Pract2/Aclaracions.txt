@@ -2,9 +2,15 @@ Client-servidor utilitzant sockets
 Socket permet implementar la connexió des de la part del client
 ServerSocket permetra manipular la conexio des de la part del servidor
 Tant client com servidor hauran de coneixer les seves direccions IP
-  i també el port per el cual es comunicaran
+  i també el port per el qual es comunicaran, sino no es podria establir
+  una conexio.
 
-
+PARTS DE LA PRÀCTICA:
+1) Programar les classes MyServerSocket i MySocket
+2) Programar classe Client com a dos threads concurrents: (plantilla facilitada)
+  - Un llegira de teclat i ho enviara al servidor
+  - Un altre llegira linies del servidor (enviades per un altre client) i les treu per pantalla
+3) Programar el main, que serà el nostre SERVER, utilitzant alguna de les classes nombrades.
 
 
 
@@ -13,3 +19,4 @@ Tant client com servidor hauran de coneixer les seves direccions IP
 Bibliografia:
 https://www.infor.uva.es/~fdiaz/sd/doc/java.net.pdf
 https://docs.oracle.com/javase/7/docs/api/java/io/PrintWriter.html
+https://docs.oracle.com/javase/7/docs/api/java/util/logging/Logger.html
