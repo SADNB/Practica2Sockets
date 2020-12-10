@@ -4,7 +4,6 @@ import java.io.IOException;
 import java.util.logging.Level;
 import java.util.logging.Logger;
 
-
 // Ignacio Poza i Blanca Ruiz
 
 //Classe equiv a ServerSocket pero que encapsuli excepcions

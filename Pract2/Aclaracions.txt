@@ -14,9 +14,8 @@ PARTS DE LA PRÀCTICA:
 
 
 
-
-
 Bibliografia:
 https://www.infor.uva.es/~fdiaz/sd/doc/java.net.pdf
 https://docs.oracle.com/javase/7/docs/api/java/io/PrintWriter.html
 https://docs.oracle.com/javase/7/docs/api/java/util/logging/Logger.html
+https://www.infor.uva.es/~fdiaz/sd/doc/hilos

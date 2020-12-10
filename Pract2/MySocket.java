@@ -60,7 +60,7 @@ public class MySocket extends Socket {
     return data;
   }
 
-  //Metode close 
+  //Metode close
   public void close() {
     //S'encarrega de tancar el socket, BR i PW
     try {
