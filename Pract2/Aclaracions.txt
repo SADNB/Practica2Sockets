@@ -19,3 +19,5 @@ https://www.infor.uva.es/~fdiaz/sd/doc/java.net.pdf
 https://docs.oracle.com/javase/7/docs/api/java/io/PrintWriter.html
 https://docs.oracle.com/javase/7/docs/api/java/util/logging/Logger.html
 https://www.infor.uva.es/~fdiaz/sd/doc/hilos
+https://www.geeksforgeeks.org/concurrenthashmap-in-java/
+https://docs.oracle.com/javase/8/docs/api/java/util/concurrent/ConcurrentHashMap.html
