@@ -7,7 +7,7 @@ El servidor serà l'encarregat de reunir i mostrar els missatges de tots el clie
 Cadascun dels clients estarà representat per un nick vàlid amb el que seran identificats en el xat. Tot seguit s'afegirà a una llista d'ususaris connectats i podrà començar a parlar amb els altres usuaris.
 Quan algun usuari vulgui desconnectar-se del xat, haurà d'escriure la paraula 'Marxo'. És la forma que tindrà el programa de saber que aquest usuari vol deixar la conversa i l'eliminarà de la llista d'usuaris connectats al xat, així com informar als altres usuaris a través del servidor que s'ha desconnectat.
 
-#PARTS DE LA PRÀCTICA: CLASSES 
+# PARTS DE LA PRÀCTICA
 --> MySocket: Classe equivalent a la classe de Java Socket però amb streams de text BufferedReader i     PrintWritter i amb excepcions. Serà la manera de implementar mètodes de lectura i escriptura         de tipus    bàsic. Un socket permet l'implementació d'una arquitectura client-servidor, de tal       manera de que puguin llegir i escriure la informació desitjada i sigui enviada i rebuda per les       dues parts. Per crear un nou socket ha d'estar definit, i és necessari conèixer el host (adreça       IP) i el número de port. 
     També trobem el mètode close(), que s'encarrega d'alliberar els recursos assignats a un socket.       És a dir, s'encarrega d'acabar la connexió existent amb el servidor.
 
