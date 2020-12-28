@@ -1,4 +1,4 @@
-# Practica2Sockets
+# PRÀCTICA 2 SAD
 Pràctica 2: Aplicació Client/Servidor d'un Xat. Client textual
 
 # INTRODUCCIÓ
