@@ -19,4 +19,7 @@ Quan algun usuari vulgui desconnectar-se del xat, haurà d'escriure la paraula '
     Si en algun moment, algun usuari escriu la paraula 'Marxo', el programa interpretarà que vol         marxar i deixar la conversació. Per tant, s'eliminarà aquest usuari de la llista de usuaris           connectats i s'informarà a la resta de que l'usuari 'x' abandona el xat.
     
 # EXECUCIÓ DE LA PRÀCTICA
-
+1. Executar Server.java. Sortirà uel missatge següent per pantalla: "Servidor inicialitzat. Esperant als usuaris...". Ara, el servidor està preparat.
+2. Executar Client.java. Al fer-ho, demanarà que s'introdueixi un nom d'usuari per el xat. Un cop s'accepti el nick proposat, sortirà al terminal del servidor que està connectat.
+3. Tornar a executar Client.java. Així, crearem un altre usuari del xat que podrà intercanviar missatges amb el creat anteriorment.
+4. Començar la conversa. Si el primer client escriu 'hola' al seu terminal, apareixerà reflexat al servidor, on aniran apareixent els missatges de tots els usuaris, i també en el terminal del segon usuari, i viceversa, fins que algun d'ells escrigui 'Marxo'. Llavors s'eliminarà de la conversa i s'informarà als usuaris i al servidor de que ha abandonat el xat.
